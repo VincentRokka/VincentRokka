@@ -1,5 +1,5 @@
 <h1 align="center">Hey there👋, I'm Loc Tran, You can call me by Rokka.</h1>
-<h3 align="center">I'm a junior c# .net developer with 7 months experiences</h3>
+<h3 align="center">Now, I'm a junior c# .net developer with 7 months experiences</h3>
 
 - 🌱 I’m currently learning **Web develop (c#)**
 
