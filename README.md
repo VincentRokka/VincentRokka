@@ -1,9 +1,9 @@
-<h1 align="center">Hey there👋, I'm Loc Tran, You can call me by Rokka.</h1>
-<h3 align="center">Now, I'm a junior c# .net developer with 7 months experiences</h3>
+<h1 align="center">Hey there👋, I'm Loc Tran.</h1>
+<h3 align="center">Now, I'm a c# .net developer with nearly 1.5 year experiences</h3>
 
 - 🌱 I’m currently learning **Web develop (c#)**
 
-- 🔭 I've graduated Hanoi University of Industry **on November 11,2022**
+- 🔭 I've graduated Hanoi University of Industry with 1 year earlier **on November 11,2022**
 
 - 📫 Contact me at: **itthanhloc.ato@gmail.com**
 
