@@ -1,9 +1,4 @@
 <h1 align="center">Hey there👋, I'm Loc Tran.</h1>
-<h3 align="center">Now, I'm a c# .net developer with more than 1 year experiences</h3>
-
-- 🌱 I’m currently learning **Web develop (c#)**
-
-- 🔭 I've graduated Hanoi University of Industry with 1 year earlier **on November 11,2022**
 
 - 📫 Contact me at: **itthanhloc.ato@gmail.com**
 
